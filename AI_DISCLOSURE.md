@@ -3,7 +3,7 @@
 ## Tool and dates
 
 - Tool: Cursor, model Grok 4.7
-- Date consulted: September 26, 2026
+- Date consulted: September 26, 2026 and September 27, 2026
 
 The handout says not to paste the assignment in as the whole prompt. The code was not produced that way. The first message asked for an explanation of how to do the assignment. That reply fixed the parsing rules before any source file existed. A second message asked which files to write. The third message asked for the files.
 
@@ -16,6 +16,12 @@ These are the messages sent in the session, in order.
 2. `what files would be written`
 
 3. `go ahead and write them all`
+
+4. `can you explain the script in each part and also draw a mermaid diagram`
+
+5. `explain to me how a script like this is used practically by network engineers`
+
+6. `what would need to change in the script for it to work with ipv6`
 
 The planning reply, not a second code-generation prompt, is what specified the rules the implementation follows:
 
